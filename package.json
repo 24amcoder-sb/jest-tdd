@@ -1,7 +1,7 @@
 {
   "name": "CH-todo-tdd",
   "version": "1.0.0",
-  "description": "",
+  "description": "An online course from Udemy to learn Jest, Express and Mongoose",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -27,5 +27,16 @@
     "jest": "^27.5.1",
     "nodemon": "^2.0.20",
     "supertest": "^6.3.3"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/24amcoder-sb/jest-tdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/24amcoder-sb/jest-tdd/issues"
+  },
+  "homepage": "https://github.com/24amcoder-sb/jest-tdd#readme"
 }
